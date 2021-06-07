@@ -7,7 +7,7 @@ The game is complete, but the game design is not really good and the code is sti
 Anyway, I hope you guys enjoy it. :D
 
 ## Demo
-Let's enjoy the game at [Gold Mining](https://trandai1106.github.io/).
+Let's enjoy the game at [Gold Mining](https://trandai1106.github.io/GoldMining/).
 ## Contact
 If you have suggestions or problems with copyright infringement, please contact me via:
 
