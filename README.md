@@ -10,6 +10,7 @@ Anyway, I hope you guys enjoy it. :D
 Let's enjoy the game at [Gold Mining](https://trandai1106.github.io/).
 ## Contact
 If you have suggestions or problems with copyright infringement, please contact me via:
+
 Email: tranquangdai11062001@gmail.com 
 
 or dai.tq194006@sis.hust.edu.vn.
