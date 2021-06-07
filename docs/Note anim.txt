@@ -1,0 +1,22 @@
+Note anim
+
+- minerD - Animation ông già ném pháo: 5 pictures
+- minerUp - Animation ông già kéo vàng lên: 17 pics
+- dboom - Animation vật phẩm nổ: 10 pics
+- dnMenu - Hình ảnh số mìn trên PlayScene: 5pics
+- goldBig - Animation của cục vàng to lúc nó idle: 9 pics
+- hv - Các hình ảnh móc câu + vật phẩm móc được: 14 pics
+- man - Animation ông bán hàng: 5 pics
+- minerDown - Animation ông già thả câu: 4 pics
+- minerStr - Animation ông già khi kéo đc super power
+- 
+
+----------------
+Các animation đang có:
+- animationSeller (Line: 1724; được gọi tại 1681)
+- animationOldManThrowMine (Line: 1108, được gọi tại 1351)
+- animationRope(1225; đc gọi tại 1196)
+- animationOldManDropHook (1064, đc gọi tại 1167)
+- animationOldManPullHook (1088, đc gọi tại 1173)
+- anim_plus_money (1049, đc gọi tại 1376)
+- anim_big_bang()

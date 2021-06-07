@@ -1,0 +1,10 @@
+* {
+  background-color: aliceblue;
+  text-align: center;
+  font-family: monospace;
+  font-size: 14px;
+ }
+canvas {
+  border: 2px solid #d2d2ff;
+  background-color:black;
+}

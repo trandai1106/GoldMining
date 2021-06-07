@@ -1,0 +1,5 @@
+Project Game Đào vàng cổ điển : Start at 12/12/2020
+
+- Âm thanh.
+
+- Kiểm soát trạng thái game (restart, pause, resume,...)
