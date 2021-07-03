@@ -2276,7 +2276,7 @@ function drawTransSceneShopToPlay() {
     ctx.font = SIZE_WORD + " " + FONT_WORD;
     ctx.fillStyle = COLOR_WORD;
 
-    ctx.fillText("Target: " + targetMoney[level + 1], 170, 305);
+    ctx.fillText("Target: " + targetMoney[level + 1] + "$", 170, 305);
 
     countTransSceneShopToPlay += TIME_INTERVAL;
 }
