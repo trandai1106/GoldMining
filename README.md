@@ -2,6 +2,8 @@
 ## About
 Gold mining is a game familiar to our childhood. I enjoyed it very much and decided to remake it with JS.
 
+I started this project on 12/12/2020.
+
 The game is complete, but the game design is not really good and the code is still not optimized.
 
 Anyway, I hope you guys enjoy it. :D
